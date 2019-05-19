@@ -26,7 +26,7 @@ Tēmas:
 
 (fizmix)
 
-Autori:
+Sastadītāji:
 * Grupa 1:
   * roadtoluck (Aleksejs P.)
   * (Nikita T.)
