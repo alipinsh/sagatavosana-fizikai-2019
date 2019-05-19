@@ -30,7 +30,7 @@ Sastadītāji:
 * Grupa 1:
   * roadtoluck (Aleksejs P.)
   * (Nikita T.)
-  * (Deniss Š.)
+  * h3x4g9n (Deniss Š.)
   * (Olegs S.)
 * Grupa 2:
   * procyoneo (Aigars L.)
