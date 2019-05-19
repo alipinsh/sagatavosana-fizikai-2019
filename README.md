@@ -3,11 +3,28 @@ Sagatavošana fizikai 2019
 
 Tēmas:
 * Mehānika
+  * Ķermeņa kustība
+  * Spēku un mijiedarbība
+  * Enerģija un impulss
+  * Mehāniskas svarstības un viļņi
 * Molekulārfizika
+  * Gāzu likumi
+  * Siltums un darbs
+  * Vielu fizkālas īpašības
 * Elektromagnētisms
+  * Elektriskie ladiņi un elektriskais lauks
+  * Līdzstrāva
+  * Elektromagnētisms
+  * Elektromagnētiskie viļņi un svārstības
 * Optika
+  * Gaisma
+  * Gaismas viļņi
 * Atomfizika, kodolfizika, elementārdaļiņu fizika
+  * Atoms un atoma kodols
 * Astronomija
+  * Pasaules uzbūve
+
+(fizmix)
 
 Autori:
 * Grupa 1:
@@ -20,3 +37,4 @@ Autori:
   * (Romans K.)
   * (Marks Č.)
   * (Linards C.)
+  
