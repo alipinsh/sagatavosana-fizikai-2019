@@ -3,7 +3,7 @@ Sagatavošana fizikai 2019
 
 Tēmas:
 * Mehānika
-  * Ķermeņa kustība
+  * Ķermeņa kustība (h3x4g9n.github.io)
   * Spēku un mijiedarbība
   * Enerģija un impulss
   * Mehāniskas svarstības un viļņi
