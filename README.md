@@ -24,7 +24,6 @@ Tēmas:
 * Astronomija
   * Pasaules uzbūve
 
-(fizmix)
 
 Sastadītāji:
 * Grupa 1:
@@ -35,6 +34,6 @@ Sastadītāji:
 * Grupa 2:
   * procyoneo (Aigars L.)
   * (Romans K.)
-  * (Marks Č.)
-  * (Linards C.)
+  * S0LYANKA (Marks Č.)
+  * PRAROK137 (Linards C.)
   
