@@ -1,5 +1,7 @@
 # sagatavosana-fizikai-2019
 [Lejupielādēt dokumentu šeit](https://drive.google.com/open?id=1zzGojZlP9y2JwQCutItn-4G7huRnrEMR)
+[Lejupielādēt jautājumus šeit]()
+
 
 Tēmas:
 * Mehānika
