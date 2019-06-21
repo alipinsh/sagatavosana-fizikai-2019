@@ -3,7 +3,7 @@
 
 [Lejupielādēt jautājumus šeit](https://drive.google.com/open?id=1-7dHqz7zWATWTEaWTRZ5wGRnkPQHd4BN)
 
-[Online versija](procyoneo.github.io)
+[Online versija](https://procyoneo.github.io)
 
 Tēmas:
 * Mehānika
