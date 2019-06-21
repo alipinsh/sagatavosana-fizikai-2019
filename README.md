@@ -3,6 +3,8 @@
 
 [Lejupielādēt jautājumus šeit](https://drive.google.com/open?id=1-7dHqz7zWATWTEaWTRZ5wGRnkPQHd4BN)
 
+[Online versija](procyoneo.github.io)
+
 Tēmas:
 * Mehānika
   * Ķermeņa kustība (h3x4g9n.github.io)
